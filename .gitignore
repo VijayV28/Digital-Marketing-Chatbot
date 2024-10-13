@@ -1,0 +1,5 @@
+# Workspace
+*.code-workspace
+
+# Environment
+.env
